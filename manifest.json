@@ -1,0 +1,25 @@
+{
+  "short_name": "EliteNode",
+  "name": "Elite Node Mining",
+  "description": "Elite Node Mining · Earn · Referral Platform",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/index.html",
+  "background_color": "#0a0818",
+  "theme_color": "#7C3AED",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/"
+}
